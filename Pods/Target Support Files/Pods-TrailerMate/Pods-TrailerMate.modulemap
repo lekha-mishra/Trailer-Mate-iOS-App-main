@@ -1,0 +1,6 @@
+framework module Pods_TrailerMate {
+  umbrella header "Pods-TrailerMate-umbrella.h"
+
+  export *
+  module * { export * }
+}
